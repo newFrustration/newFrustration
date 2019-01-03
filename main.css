@@ -1,26 +1,4 @@
-body{
-	background: #15DAF9;
-}
-header{
-	display: flex;
-	width: 100%;
-	justify-content: space-between;
-	
-	
-}
-.navigation-bar{
-	align-self: center;
-	font-size: 3rem;
 
-}
-
-.nav-links{
-	padding: 20px;
-}
-
-h1{
-	text-align: center;
-}
 
 .homepage{
 	text-align: center;
@@ -35,10 +13,5 @@ img{
 	max-width: 100%;
 
 }
-
-.shows{
-	text-align: center;
-}
-
 
 
