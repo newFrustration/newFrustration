@@ -1,0 +1,44 @@
+body{
+	background: #15DAF9;
+}
+header{
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	
+	
+}
+.navigation-bar{
+	align-self: center;
+	font-size: 3rem;
+
+}
+
+.nav-links{
+	padding: 20px;
+}
+
+h1{
+	text-align: center;
+}
+
+.homepage{
+	text-align: center;
+	position: absolute;
+    top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%)
+}
+
+img{
+	max-width: 100%;
+
+}
+
+.shows{
+	text-align: center;
+}
+
+
+
