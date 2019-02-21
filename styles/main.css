@@ -19,8 +19,7 @@ html {
 }
 
 body{
-  /*background-color: #15DAF9;*/
-  background-color: #f913f2;
+  background-color: #15DAF9;
   max-width: 1000px; /*margins*/
 	margin: 0 auto; /*centers content*/
 	/*height: 100%;*/
@@ -134,8 +133,7 @@ div.gallery img {
   }
   /* Overlay text*/
   .text{
-    /*color: #15DAF9;*/
-    color: #f913f2;
+    color: #15DAF9;
     font-size: 300%;
     text-align: center;
     position: absolute;
@@ -177,8 +175,7 @@ div.gallery img {
 
   /* Overlay text*/
   .text{
-    /*color: #15DAF9;*/
-    color: #f913f2;
+    color: #15DAF9;
     font-size: 200%;
     text-align: center;
     position: absolute;
@@ -263,8 +260,7 @@ footer{
 }
 
 footer  a:link{
-  /*color: #15DAF9;*/
-  color: #f913f2;
+  color: #15DAF9;
 
 }
 
@@ -273,15 +269,13 @@ footer a:hover{
 }
 
 footer a:visited{
-  /*color: #15DAF9;*/
-  color: #f913f2;
+  color: #15DAF9;
   
 }
 
 footer p{
   align-self: center;
-  /*color: #15DAF9;*/
-  color: #f913f2;
+  color: #15DAF9;
   padding: 0 5px 0 5px;
 }
 
